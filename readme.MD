@@ -4,7 +4,7 @@
 [![License: Elastic License 2.0](https://img.shields.io/badge/Commercial%20License-ELv2-orange)](LICENSE-COMMERCIAL.txt)
 
 # Collatz Conjecture: Empirical Analysis via Parity-Run Decomposition
-
+![EMPICOLLA](https://github.com/hermannhart/empicolla/blob/main/empicolla.jpg)
 A comprehensive computational investigation of the Collatz conjecture through parity-run structure analysis, corrected drift methodology, and statistical validation.
 
 ## Overview
